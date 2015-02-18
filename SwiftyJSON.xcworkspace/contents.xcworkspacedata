@@ -4,7 +4,4 @@
    <FileRef
       location = "group:SwiftyJSON.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Example.xcodeproj">
-   </FileRef>
 </Workspace>
